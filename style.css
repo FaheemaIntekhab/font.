@@ -1,0 +1,14 @@
+#box
+{
+    background-color:gold;
+    color:crimson;
+    text-align: center;
+    box-shadow: 5px 5px 5px darkgrey;
+}
+
+canvas
+{
+    border: 8px dashed crimson;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px grey;
+}
